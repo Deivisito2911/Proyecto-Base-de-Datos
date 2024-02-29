@@ -10,7 +10,7 @@ import { User } from "./dto/user.dto";
 import { List } from "./dto/list.dto";
 import { Card } from "./dto/card.dto";
 import { Member } from "./dto/member.dto";
-
+//Deivith Zanella 28.564.281
 dotenv.config();
 
 const pool = new Pool({
